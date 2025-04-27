@@ -17,8 +17,5 @@ The dataset used in this project was obtained from examples. It includes compreh
 # Project Outputs
 The project outputs include various visualizations, such as graphs and charts, which provide insights into trends and patterns in food delivery orders, customer behavior, and restaurant performance. These outputs are presented within SQL query results.
 
---- 
 
-# About
-This project presents a comprehensive data analysis case study for Swiggy, one of India's leading food delivery platforms. Utilizing SQL, we delve into various aspects of Swiggy's operations, focusing on customer behavior, order trends, and restaurant performance.
 
