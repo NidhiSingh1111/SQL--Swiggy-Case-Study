@@ -1,1 +1,1 @@
-# SQL--Swiggy-Case-Study
+# SQL-Swiggy-Case-Study
